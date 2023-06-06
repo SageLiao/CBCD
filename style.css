@@ -81,12 +81,3 @@ body {
   section li a:hover {
     text-decoration: underline;
   }
-
-.box{
-  border: 5px solid black;
-  padding: 10px;
-}
-img{
-  float: right;
-  height: 350px;
-}
